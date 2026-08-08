@@ -160,11 +160,11 @@ public:
 
         viewMovies();
         int movieChoice = readInt("Select a movie number: ", 1, static_cast<int>(movies.size()));
-        Movie& selectedMovie = movies[movieChoice - 1];
+        Movie& selectedMovie = movies[movieChoice - 1]; // Optimized with Reference
 
         viewHallsMenu();
         int hallChoice = readInt("Select a hall number: ", 1, static_cast<int>(halls.size()));
-        Hall& selectedHall = halls[hallChoice - 1];
+        Hall& selectedHall = halls[hallChoice - 1]; // Optimized with Reference
 
         selectedHall.displaySeats();
 
@@ -182,7 +182,6 @@ public:
         }
 
         cout << "Enter your name: ";
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         string customerName;
         getline(cin, customerName);
         if (customerName.empty()) {
@@ -238,6 +237,7 @@ public:
                 cout << "Invalid input. Please enter a number between "
                      << minVal << " and " << maxVal << ".\n";
             } else {
+                cin.ignore(numeric_limits<streamsize>::max(), '\n'); // Clears trailing '\n' cleanly
                 return value;
             }
         }
