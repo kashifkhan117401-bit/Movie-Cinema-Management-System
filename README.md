@@ -124,7 +124,7 @@ This is a **beginner-friendly**, object-oriented C++ console application designe
 
 | Platform | Link |
 |---|---|
-| 📧 Email | [kashifkhan117401@gmail.com](mailto:kashifkhan117401@gmail.com) |
+| 📧 Email | [kashif.hafeez.dev@gmail.com](mailto:kashif.hafeez.dev@gmail.com) |
 | 🌐 Portfolio | [kashifhafeez-portfolio1.vercel.app](https://kashifhafeez-portfolio1.vercel.app/) |
 | 🆔 ORCID | [0009-0002-5604-3264](https://orcid.org/0009-0002-5604-3264) |
 | 💼 LinkedIn | [in/kashif-hafeez-545794330](https://www.linkedin.com/in/kashif-hafeez-545794330) |
