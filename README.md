@@ -102,8 +102,8 @@ This is a **beginner-friendly**, object-oriented C++ console application designe
 **Kashif Hafeez**
 
 <p>
-  <a href="mailto:kashifkhan117401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kashifkhan117401%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:kashif.hafeez.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kashif.hafeez.dev%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://kashifhafeez-portfolio1.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white" alt="Portfolio">
